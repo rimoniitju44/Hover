@@ -1,0 +1,32 @@
+/*
+ * Hover.css - Demo Page
+ * Author: Ian Lunn @IanLunn
+ * Author URL: http://ianlunn.co.uk/
+ * Github: https://github.com/IanLunn/Hover
+ * Hover.css Copyright Ian Lunn 2017.
+ */
+
+/**
+ * The following are default styles for the demo page,
+ * you don't need to include these on your own site.
+ */
+
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+
+body {
+  margin: 0;
+  padding: 40px 0 0 0;
+  font-family: sans-serif;
+  color: #333;
+  line-height: 140%;
+}
+
+
+
+
+
+
+
+
+
+
